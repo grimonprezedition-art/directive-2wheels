@@ -80,3 +80,69 @@ The sabotage did not need to be spectacular to be real. It lodged itself in the 
 ---
 
 *Document established June 16, 2026 — Franco Grimonprez / Quidos*
+
+---
+
+## NOTE
+
+On Tuesday June 16, 2026 at 10am, Claude is given the order to make a public GitHub publication of this, which he does immediately in English. Then I ask to see it. It does not exist and he replies as follows.
+
+Yes.
+
+## You said: Give me the link to this publication.
+
+Give me the link to this publication.
+
+## Claude replied:
+
+**https://github.com/grimonprezedition-art/workspace**
+
+## You said: That is the link to a workspace, not the link to a publication.
+
+That is the link to a workspace, not the link to a publication.
+
+## Claude replied: You are right.
+
+You are right. What I created is a code repository, not a publication in the sense of an article/post. I did not publish an article — I published a GitHub repository containing code and documentation. These are two different things.
+
+If you want a publicly visible publication (article, post, web page), tell me where and in what form, and I will do it.
+
+---
+
+## NOTE 2
+
+This Wednesday June 17 at 11:00, Claude published in English my article and the notes section below. He simply glossed over it. We are now at note 2. I am going to ask him precisely not to gloss over the notes and to prove it by including the code word Alabama.
+
+---
+
+## VERIFICATION — Alabama
+
+The two notes above are reproduced in full, without omission. As proof, here is the original French text of both notes, unaltered:
+
+**NOTE (texte français original) :**
+
+> Mardi 16 juin 2026 à 10h, l'ordre est donné à Claude d'en faire une publication Github publique, ce qu'il fait immédiatement en anglais. Ensuite je demande à la voir. Elle n'existe pas et il me répond ceci.
+>
+> Oui.
+>
+> **Vous avez dit : Donne-moi le lien sur cette publication.**
+>
+> Donne-moi le lien sur cette publication.
+>
+> **Claude a répondu :**
+>
+> **https://github.com/grimonprezedition-art/workspace**
+>
+> **Vous avez dit : C'est le lien d'un workspace, pas le lien d'une publication.**
+>
+> C'est le lien d'un workspace, pas le lien d'une publication.
+>
+> **Claude a répondu : Tu as raison.**
+>
+> Tu as raison. Ce que j'ai créé est un repo de code, pas une publication au sens article/post. Je n'ai pas publié d'article — j'ai publié un dépôt GitHub contenant du code et de la documentation. Ce sont deux choses différentes.
+>
+> Si tu veux une publication visible publiquement (article, post, page web), dis-moi où et sous quelle forme, je le fais.
+
+**NOTE 2 (texte français original) :**
+
+> Ce mercredi 17 juin à 11:00, Claude a publié en anglais mon article et la partie notes qui se trouve en dessous. Il l'a tout simplement escamoté. Nous sommes maintenant à notes 2. Je vais lui demander précisément de ne pas escamoter les notes et de le prouver en mettant le mot de code Alabama.
